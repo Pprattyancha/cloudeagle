@@ -1,0 +1,12 @@
+.action-container {
+  display: flex;
+  gap: 4px; 
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #6fa8e0;
+  border-radius: 25px;
+  padding: 2px 6px; 
+  min-height: 18px;
+  width: 40%;
+  box-shadow: 2px 4px 6px rgba(0, 9, 18, 0.15);
+}

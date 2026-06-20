@@ -1,0 +1,22 @@
+.editable-cell-text {
+  font-size: 14px;
+  height: 28px;
+  line-height: 28px;
+  display: block;
+  width: 100% !important;
+}
+.editable-cell-input.MuiFormControl-root {
+  width: 50% !important;
+}
+.editable-cell-input .MuiInputBase-root {
+  height: 28px;
+  width:100% !important;
+  font-size: 14px;
+}
+.editable-cell-input input {
+  padding: 0;
+  height: 28px;  
+  width:100% !important;
+  line-height: 28px;
+  box-sizing: border-box;
+}
