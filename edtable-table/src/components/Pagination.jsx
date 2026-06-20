@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Paper, TablePagination } from "@mui/material";
+import { Box, TablePagination } from "@mui/material";
 import { useDispatch, useSelector } from "react-redux";
 import { setLimit, setPage } from "../redux/tableSlice";
 
